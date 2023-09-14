@@ -28,18 +28,18 @@ const About = () => {
             <article className='about__card'>
               <VscFolder className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>7+ Completed</small>
             </article>
           </div>
 
           <p>
-          Welcome to my portfolio! I'm a first-year student at Shri Ramdeobaba College of Engineering and Management, Nagpur, pursuing a B.Tech in Computer Science Engineering (Data Science).
+          Welcome to my portfolio! I'm a Second-year student at Shri Ramdeobaba College of Engineering and Management, Nagpur, pursuing a B.Tech in Computer Science Engineering .
           <br />
           <br />
-          I have a strong affinity for algorithmic problem-solving and a deep understanding of Data Structures and Algorithms.
+          I have a strong affinity for Web development and a deep understanding of Computer Science .
           <br />
           <br />
-          My passion extends to web development and blockchain technology. I've crafted some project websites and am actively enhancing my skills in React.js.
+          My passion extends to web development and Content Creation. I've crafted some project websites and am actively enhancing my skills in React.js.
           <br />
           <br />
           Join me on my journey as I explore the art of crafting dynamic and user-centric web experiences. Let's venture into the exciting world of full-stack web development together.
