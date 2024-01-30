@@ -11,10 +11,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_aou2du9",
-        "template_mkj6j54",
+        "service_lm31e5h",
+        "template_g8ixeef",
         form.current,
-        "Jw9B0qYMOy8tuS3JP"
+        "niWPRRG_gAs8L1Hvr"
       )
       .then(
         (result) => {
@@ -47,10 +47,7 @@ const Contact = () => {
             <BsMessenger className="contact__option-icon" />
             <h4>Instagram Messenger</h4>
             <h5>priyachaurasiyaa</h5>
-            <a
-              href="https://www.instagram.com/priyachaurasiyaa/"
-              target="_blank"
-            >
+            <a href="https://m.me/priyachaurasiyaa" target="_blank">
               Send a Message
             </a>
           </article>
@@ -58,7 +55,10 @@ const Contact = () => {
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            <a href="" target="_blank">
+            <a
+              href="https://api.whatsapp.com/send?phone=7304364224"
+              target="_blank"
+            >
               Send a Message
             </a>
           </article>
@@ -77,6 +77,7 @@ const Contact = () => {
             placeholder="Your Message"
             required
           ></textarea>
+          {/* for this i have used emailjs */}
           <button type="submit" className="btn btn-primary">
             Send Message
           </button>

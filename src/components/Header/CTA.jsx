@@ -13,3 +13,10 @@ const CTA = () => {
 
 export default CTA;
 
+//Build a React Project from scratch
+// useState Hook
+// React Icons
+// Modern & Responsive Design with CSS3
+// Multiple Contact Options (email, messenger & whatsapp)
+// Create Carousels/Slides with SwiperJS
+// Deploy your website

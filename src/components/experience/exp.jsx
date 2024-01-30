@@ -92,7 +92,7 @@ const Experience = () => {
             <article className="skills__details">
               <BsPatchCheckFill className="skills__details-icon" />
               <div>
-                <h4>C</h4>
+                <h4>Laravel</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -109,6 +109,59 @@ const Experience = () => {
               <BsPatchCheckFill className="skills__details-icon" />
               <div>
                 <h4>PHP</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div className="skills__backend">
+          <h3>Designing and AIML</h3>
+          <div className="skills__content">
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>Python</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>AIML</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>SEO Analyst</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>C & C++</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>Low Level Design</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>Data Structure & Algorithm</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -139,6 +192,13 @@ const Experience = () => {
               <div>
                 <h4>Competitive Programming</h4>
                 <small className="text-light">Beginner</small>
+              </div>
+            </article>
+            <article className="skills__details">
+              <BsPatchCheckFill className="skills__details-icon" />
+              <div>
+                <h4>Social Media handler</h4>
+                <small className="text-light">intermediate</small>
               </div>
             </article>
           </div>
