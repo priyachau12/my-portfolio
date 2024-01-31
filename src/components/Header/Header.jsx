@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import CTA from "./CTA";
-import ME from "../../assets/trans.png";
+
 import HeaderSocials from "./HeaderSocials";
 import { Link } from "react-scroll";
 
@@ -20,7 +20,7 @@ const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={ME} alt="me"></img>
+          <img src="/trans.png" alt="me" />
           {/* style="height:25rem" */}
         </div>
 
